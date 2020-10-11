@@ -1,4 +1,5 @@
- from parlai.scripts.interactive import Interactive
+# Import the Interactive script
+from parlai.scripts.interactive import Interactive
 
 # call it with particular args
 Interactive.main(
