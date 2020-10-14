@@ -1,0 +1,1 @@
+web: python parlai/chat_service/services/browser_chat/run.py --config-path parlai/chat_service/tasks/chatbot/config.yml --port=$PORT
